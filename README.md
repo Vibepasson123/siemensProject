@@ -9,7 +9,7 @@ Use the link to clone the project 💁 [click here.](https://pip.pypa.io/en/stab
 ```bash
 Apply the link when GitHub is ready 
 ```
-
+<img width="990" alt="Screenshot 2021-02-14 at 15 42 58" src="https://user-images.githubusercontent.com/33363433/107882061-3b80ef00-6edf-11eb-95ab-9c2a92ca710d.png">
 ## Usage
 
 ```python
